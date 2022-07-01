@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cvbarros/go-teamcity/teamcity"
+	"github.com/jc01rho/go-teamcity/teamcity"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
