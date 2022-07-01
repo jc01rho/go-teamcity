@@ -1,4 +1,4 @@
-module github.com/cvbarros/go-teamcity
+module github.com/jc01rho/go-teamcity
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -10,4 +10,4 @@ require (
 	github.com/stretchr/testify v1.2.2
 )
 
-go 1.13
+go 1.18
